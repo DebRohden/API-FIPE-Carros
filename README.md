@@ -4,6 +4,7 @@ Consumindo Web Service API
 Javadoc --- \dist\javadoc
 
 Importar a biblioteca POO2-WebService.jar encontrada em \dist
+
 Importar gson encontrada em \lib
 
 Exemplo de utilização 
